@@ -1,9 +1,5 @@
 # Occupancy-and-Activity-Recognition-at-a-Pharma-Client
 
-Sure! Here's a README file in a different format, using sections and bullet points to provide a clear and organized overview of the project:
-
----
-
 # Room Occupancy and Activity Analytics Service
 
 ## Project Overview
